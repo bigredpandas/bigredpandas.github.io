@@ -8,7 +8,7 @@ slug: /reading
 
 | Title                                                          | Author               | Year read | Rating |
 | -------------------------------------------------------------- | -------------------- | --------- | ------ |
-| This is what inequality looks like                             | Teo You Yenn         | 2019      |        |
+| This is what inequality looks like                             | Teo You Yenn         | 2019      | ★      |
 | Eichmann in Jerusalem: The banality of evil                    | Hannah Arendt        | 2019      | ★      |
 | The little Prince                                              | Le Petit Prince      | 2018      |        |
 | A Brave New World                                              | Huxley               | 2018      |        |
