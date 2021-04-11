@@ -5,7 +5,7 @@ title: Jan Biederbeck
 description: >- # this means to ignore newlines until "baseurl:"
   Personal Website of Jan Biederbeck
 baseurl: "" # the subpath of the site
-url: "https://eliottvincent.github.io" # the base hostname & protocol for the site
+url: "https://jan-biederbeck.de" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.jpg
 
 header:
@@ -28,6 +28,7 @@ footer:
       link: https://github.com/bigredpandas
 
 # Build settings
+remote_theme: eliottvincent/bay
 markdown: kramdown
 sass:
     style: :compressed
