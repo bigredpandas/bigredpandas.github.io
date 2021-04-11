@@ -1,1 +1,51 @@
-theme: jekyll-theme-minimal
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+title: Jan Biederbeck
+description: >- # this means to ignore newlines until "baseurl:"
+  Personal Website of Jan Biederbeck
+baseurl: "" # the subpath of the site
+url: "https://eliottvincent.github.io" # the base hostname & protocol for the site
+og_image: /assets/img/profile-pic.jpg
+
+header:
+  pages:
+    - name: About
+      slug: /
+    - name: Reading
+    - name: Blog
+
+footer:
+  show_powered_by: true
+  contact:
+    - name: Email
+      value: mail@jan-biederbeck.de
+      link: mailto:mail@jan-biederbeck.de
+  follow:
+    - name: LinkedIn
+      link: https://www.linkedin.com/in/jan-biederbeck/
+    - name: GitHub
+      link: https://github.com/bigredpandas
+
+# Build settings
+markdown: kramdown
+sass:
+    style: :compressed
+plugins:
+  - jekyll-feed
+
+# Excluded items
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - feed.xml
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Used for defeating caching
+version: 1
