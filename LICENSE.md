@@ -1,3 +1,7 @@
+The content of the page is copyrighted. If you want to use any of the content please contact me.
+
+The following license is for the theme Bay by Eliott Vincent, which I used and modified heavily. The content of the page is not subject by this term and is as mentioned copyrighted.
+
 ISC License
 
 Copyright (c) 2019, Eliott Vincent
