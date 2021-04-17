@@ -2,7 +2,7 @@
 layout: home
 
 ---
-![Sapa](/assets/img/profil-pic.jpeg)
+![Profile-Picture](/assets/img/profil-pic.jpeg)
 
 
 Hello there,
