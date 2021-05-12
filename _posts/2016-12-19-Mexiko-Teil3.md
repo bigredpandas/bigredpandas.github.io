@@ -15,5 +15,7 @@ Kurz zur Bleibe. Das Haus ist in einem gesicherten Komplex (einer kleinen gated 
 Am Samstag musste ich meine täglichen Intercambio Treffen mit Pati leider einmal unterbrechen, da der erste Trip bevorstand. Ich bin mit Yutan, einem japanischen Austauschstudenten, der auch mit mir an der Tec studiert, nach San Miguel gefahren, einer schönen vergleichsweise kleinen Kolonialstadt nicht weit von Querétaro. Nachdem wir ein bisschen durch die Stadt gebummelt waren, haben wir uns den mexikanischen botanischen Garten angeguckt, der etwas abseits der Stadt lag, und kennen jetzt jede erdenkliche Art von Kakteen.
 
 ![San Miguel](/assets/img/content/Mexico-2016-12-19/IMG_20161217_172751.jpg)
+
+
 ![VW Käfer](/assets/img/content/Mexico-2016-12-19/IMG_20161217_142622.jpg)
-*VW Käfer fahren hier in Mexiko tausende rum. Bis irgendwann um 2003 [wurden sie auch noch im größten VW Werk der Welt in Puebla produziert*](https://en.wikipedia.org/wiki/Volkswagen_Beetle_in_Mexico)*
+*VW Käfer fahren hier in Mexiko tausende rum. Bis irgendwann um 2003 [wurden sie auch noch im größten VW Werk der Welt in Puebla produziert](https://en.wikipedia.org/wiki/Volkswagen_Beetle_in_Mexico)*

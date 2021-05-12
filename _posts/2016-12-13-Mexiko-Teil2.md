@@ -5,7 +5,7 @@ date:   2016-12-13 10:00:40
 
 ---
 
-Soo die letzten paar Tage vergingen schnell. Am Samstag hat John noch eine mexikanische Freundin angerufen die bald nach Deutschland geht und deshalb Deutsch lernen möchte. Paty und machen jetzt ein Intercambio jeden Tag. Wir wechseln jede 20 Minuten zwischen Deutsch und Espanol und geben uns auch gegenseitig Hausaugaben. 
+Soo die letzten paar Tage vergingen schnell. Am Samstag hat John noch eine mexikanische Freundin, Paty, angerufen die bald nach Deutschland geht und deshalb Deutsch lernen möchte. Paty und ich machen jetzt ein Intercambio jeden Tag. Wir wechseln jede 20 Minuten zwischen Deutsch und Espanol und geben uns auch gegenseitig Hausaugaben. 
 
 Samstag abend habe ich dann noch für John meinen berühmten salzigen Käsekuchen gemacht für den ich jedoch sehr improvisieren musste, da es erstens keine harten, pikanten Käse hier gibt, nichtmals Gouda, sondern nur so wabbelige Milde (in die Richtung des abscheulichen “Quäse” in Deutschland). Zweitens hatte John, wie es sich für einen Amerikaner gehört, keine Waage nur Cups... Zudem kochen und backen die alle mit Gas. Trotzdem war das Ergebnis akzeptabel.
 

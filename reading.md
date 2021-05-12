@@ -4,6 +4,7 @@ title: Reading
 slug: /reading
 ---
 
+A list of the books I have read. Maybe something catches your eye. For some books I wrote a small review.
 
 
 | Title                                                          | Author               | Year read | Rating |

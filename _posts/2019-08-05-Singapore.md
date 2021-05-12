@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My internship in Singapore"
-date:   2021-04-11 20:00:40
+date:   2019-08-05 20:00:40
 blurb: "In the spring of this year, I interned for 4 months at thyssenkrupp in Singapore. Working for a global industrial player gave me the chance to learn a lot about Asia’s economies and the way such giant companies function. Furthermore, establishing relationships across the region both within as well as outside the company was interesting and taught me a lot. Next to work, Singapore offers great nightlife and food, and it’s a good hub to explore other Southeast Asian countries. During my internship I climbed Mt. Kinabalu in Malaysia, explored Shanghai and swam at Bali’s clear beaches."
 
 ---
