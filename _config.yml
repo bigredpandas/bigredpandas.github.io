@@ -8,6 +8,8 @@ baseurl: "" # the subpath of the site
 url: "https://jan-biederbeck.de" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.jpg
 
+future: false #do not show future posts
+
 header:
   pages:
     - name: About
