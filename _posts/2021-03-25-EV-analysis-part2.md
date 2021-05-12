@@ -2,7 +2,6 @@
 layout: post
 title:  "A closer look at EV adoption"
 date:   2022-03-25
-published: false
 blurb: "Test"
 
 ---
