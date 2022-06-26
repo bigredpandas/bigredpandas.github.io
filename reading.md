@@ -9,6 +9,7 @@ A list of the books I have read. Maybe something catches your eye.
 
 | Title                                                          | Author               | Year read | Rating |
 | -------------------------------------------------------------- | -------------------- | --------- | ------ |
+| Café am Rande der Welt                                         | John P. Strelecky    | 2022      |        |
 | A Crack in Creation                                            | Jennifer Doudna & Samuel Sternberg | 2021      | ★      |
 | This is what inequality looks like                             | Teo You Yenn         | 2019      | ★      |
 | Eichmann in Jerusalem: The banality of evil                    | Hannah Arendt        | 2019      | ★      |
