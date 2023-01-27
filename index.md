@@ -13,3 +13,5 @@ If you want to reach out to me, write me an e-mail to hello [at] jan-biederbeck 
 
 ### Website
 This website is built on [jekyll](https://jekyllrb.com) using a modified version of the [bay theme](https://github.com/eliottvincent/bay) from [Eliott Vincent](https://github.com/eliottvincent). It is hosted on GitHub Pages. The bay theme as well as this modified version are open-source, but the content of this page (pictures, text) are - if not mentioned otherwise - copyrighted. If you want to use parts of it, please reach out to me.
+
+<a rel="me" href="https://bequeme-couch.de/@jangatanga">Mastodon</a>
