@@ -8,11 +8,13 @@ date:   2023-01-28 10:00:00
 
 Dear eMobility & trucking enthusiasts, are you interested in comparing different green trucking technologies and understanding drivers of costs? 
   
-I built a total cost of ownership (TCO) tool based on the study by Transport & Environment (T&E) ['How to decarbonize long-haul trucking in Germany'](https://www.transportenvironment.org/wp-content/uploads/2021/07/2021_04_TE_how_to_decarbonise_long_haul_trucking_in_Germany_final.pdf){:target="_blank"}  🚚🔋⚡? The model is parameterized for 40 t semitrucks, but can easily be changed to other classes. 
+I built a total cost of ownership (TCO) tool based on the study by Transport & Environment (T&E) ['How to decarbonize long-haul trucking in Germany'](https://www.transportenvironment.org/wp-content/uploads/2021/07/2021_04_TE_how_to_decarbonise_long_haul_trucking_in_Germany_final.pdf){:target="_blank"}  🚚🔋⚡? The model is parameterized for 40 t semitrucks, but can easily be changed to other classes.
   
-Can be found here: https://lnkd.in/efJxReJn (works best on desktop/tablet) 
+Can be found here: https://lnkd.in/efJxReJn (works best on desktop/tablet). 
 
-The tool gives the opportunity to play around with cost drivers (e.g. what difference does an increase of CO2 price from 25 to 100 €/t make on TCO)
+The tool gives the opportunity to play around with cost drivers (e.g. what difference does an increase of CO2 price from 25 to 100 €/t make on TCO).
+
+![screenshot of tco webtool](/assets/img/content/green-trucking/screenshot-tco-tool.png)
 
 Some insights: 
   
